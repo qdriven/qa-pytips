@@ -16,5 +16,5 @@ Lessons and examples for Software QA Learning Python.
 
 ## What to Learn to build this site
 
-- [] How to Retrieve Github Contributors
-- []
+- [X] How to Retrieve Github Contributors
+- [] How to Build Website By typescript and tailwind css
