@@ -55,9 +55,9 @@ This project and everyone who participates in it is governed by the [Contributor
 - Submit changes to the cheatsheet.
 - Improve existing topics and examples.
 - Add new topics or resources.
-- Ask for new topics by creating an [Issue](https://github.com/wilfredinni/python-cheatsheet/issues).
-- Read the issues, fork the project and do a [Pull Request](https://github.com/wilfredinni/python-cheatsheet/pulls).
-- Report any kind of error or typo by creating an [Issue](https://github.com/wilfredinni/python-cheatsheet/issues) or fix it with a [Pull Request](https://github.com/wilfredinni/python-cheatsheet/pulls).
+- Ask for new topics by creating an [Issue](https://github.com/qdriven/qapy-revisited/issues).
+- Read the issues, fork the project and do a [Pull Request](https://github.com/qdriven/qapy-revisited/pulls).
+- Report any kind of error or typo by creating an [Issue](https://github.com/qdriven/qapy-revisited/issues) or fix it with a [Pull Request](https://github.com/qdriven/qapy-revisited/pulls).
 
 ## What you need to Know
 

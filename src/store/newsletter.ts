@@ -9,7 +9,8 @@ interface newsletterResponse {
   success?: boolean
 }
 
-export const useNewsletterStore = defineStore('useNewsletterStore', {
+export const useNewsletterStore = defineStore('useNewsletterStore',
+ {
   state: () => ({
     response: null as newsletterResponse | null,
   }),
@@ -17,7 +18,7 @@ export const useNewsletterStore = defineStore('useNewsletterStore', {
   getters: {
     getResponse: (state) => state.response,
   },
-
+//https://my.curated.co/fluent-qa
   actions: {
     async subscribe(email: string) {
       const curatedKey = import.meta.env.VITE_CURATED_KEY || null
