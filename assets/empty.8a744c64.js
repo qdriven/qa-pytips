@@ -1,0 +1,1 @@
+import{p as o,c as t,b as c,o as r,r as s}from"./app.e6b4b7b5.js";const n={},a={class:"h-screen bg-white dark:bg-gray-900"};function _(i,p){const e=s("RouterView");return r(),t("div",a,[c(e)])}const m=o(n,[["render",_]]);export{m as default};

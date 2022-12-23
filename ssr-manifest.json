@@ -1,0 +1,505 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "node_modules/_@vue_shared@3.2.45@@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/_@vue_reactivity@3.2.45@@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/_@vue_runtime-core@3.2.45@@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/_@vue_runtime-dom@3.2.45@@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/_vue-gtag@2.0.1@vue-gtag/dist/vue-gtag.esm.js": [],
+  "src/modules/analytics.ts": [],
+  "node_modules/_vue-demi@0.13.11@vue-demi/lib/index.mjs": [],
+  "node_modules/_pinia@2.0.27@pinia/dist/pinia.mjs": [],
+  "src/modules/pinia.ts": [],
+  "\u0000vite/preload-helper": [],
+  "src/modules/pwa.ts": [],
+  "node_modules/_vue-router@4.1.6@vue-router/dist/vue-router.mjs": [],
+  "node_modules/_hookable@5.4.2@hookable/dist/index.mjs": [],
+  "node_modules/_@unhead_vue@1.0.6@@unhead/vue/dist/index.mjs": [],
+  "node_modules/_@unhead_dom@1.0.6@@unhead/dom/dist/index.mjs": [],
+  "node_modules/_@vueuse_head@1.0.19@@vueuse/head/dist/index.mjs": [],
+  "node_modules/_vite-ssg@0.22.0@vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [],
+  "node_modules/_vite-ssg@0.22.0@vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [],
+  "node_modules/_vite-ssg@0.22.0@vite-ssg/dist/index.mjs": [],
+  "node_modules/_@vueuse_shared@9.6.0@@vueuse/shared/index.mjs": [],
+  "node_modules/_@vueuse_core@9.6.0@@vueuse/core/index.mjs": [],
+  "src/components/CarbonAds.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/CarbonAds.vue?vue&type=style&index=0&scoped=c0cdbd62&lang.css": [],
+  "\u0000plugin-vue:export-helper": [],
+  "src/components/CarbonAds.vue": [],
+  "src/composables/toc.ts": [],
+  "src/store/reader.ts": [],
+  "src/composables/carbon.ts": [],
+  "src/components/layout/TheToc.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/icons/EditIcon.vue": [],
+  "src/components/icons/QuestionIcon.vue": [],
+  "src/components/icons/BugIcon.vue": [],
+  "src/components/layout/TheFooter.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/Prose.vue?vue&type=script&setup=true&lang.ts": [],
+  "node_modules/_destr@1.2.1@destr/dist/index.mjs": [],
+  "node_modules/_ufo@0.8.6@ufo/dist/index.mjs": [],
+  "node_modules/_ohmyfetch@0.4.21@ohmyfetch/dist/shared/ohmyfetch.d1948a88.mjs": [],
+  "node_modules/_ohmyfetch@0.4.21@ohmyfetch/dist/index.mjs": [],
+  "src/store/newsletter.ts": [],
+  "src/components/SubscriptionForm.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/store/builtin.json": [],
+  "src/store/cheatsheet.json": [],
+  "src/store/revisitedNavi.json": [],
+  "src/store/content.ts": [],
+  "src/store/navigation.ts": [],
+  "src/components/ui/BasePagination.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/layout/TheSidebarNavigation.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/layout/TheSidebarDesktop.vue?vue&type=script&setup=true&lang.ts": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/match.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/render.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-id.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/keyboard.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/dom.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/internal/open-closed.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-resolve-button-type.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/ssr.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/owner.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/focus-management.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-document-event.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-outside-click.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/internal/hidden.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/form.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-controllable.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-window-event.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-tab-direction.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-event-listener.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/micro-task.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/focus-trap/focus-trap.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/hooks/use-inert-others.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/internal/portal-force-root.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/portal/portal.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/internal/stack-context.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/description/description.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/disposables.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/platform.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/dialog/dialog.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/label/label.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/switch/switch.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/utils/once.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/transitions/utils/transition.js": [],
+  "node_modules/_@headlessui_vue@1.7.4@@headlessui/vue/dist/components/transitions/transition.js": [],
+  "src/composables/dark.ts": [],
+  "src/components/ui/BaseThemeToggle.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/layout/TheNavbarReader.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/icons/GithubIcon.vue": [],
+  "src/components/ui/BaseBadge.vue": [],
+  "src/components/ui/BaseReaderMode.vue?vue&type=script&setup=true&lang.ts": [],
+  "node_modules/_@docsearch_js@3.3.0@@docsearch/js/dist/esm/index.js": [],
+  "src/components/AlgoliaDocSearch.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/layout/TheSidebarMobile.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/layout/TheNavbar.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/layouts/default.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/layouts/default.vue?vue&type=style&index=0&scoped=fdd3a60d&lang.css": [],
+  "src/layouts/default.vue": [],
+  "../../../../../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "contributors/contributors.json": [],
+  "contributors/contributors.ts": [],
+  "src/components/Contributors.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/ui/BaseLinkCard.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/ui/BaseTitle.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/ui/BaseTitle.vue?vue&type=style&index=0&scoped=c4f293d2&lang.css": [],
+  "src/components/ui/BaseTitle.vue": [],
+  "src/composables/meta.ts": [],
+  "src/components/icons/ReferenceIcon.vue": [],
+  "src/components/icons/PluginIcon.vue": [],
+  "src/components/icons/ArrowIcon.vue": [],
+  "src/components/icons/GridIcon.vue": [],
+  "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [],
+  "../../../../../../../../../@vite-plugin-pages/generated-pages?id=~pages": [],
+  "src/composables/scroll.ts": [],
+  "src/App.vue?vue&type=style&index=0&lang.css": [],
+  "src/App.vue": [],
+  "src/styles/index.css": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "../../../../../../../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/assets/virtual_pwa-register.09a58ac4.js"
+  ],
+  "src/layouts/article.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/article.4450c938.js"
+  ],
+  "src/layouts/article.vue": [
+    "/assets/article.4450c938.js"
+  ],
+  "src/layouts/blog.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/blog.e1fe4f57.js"
+  ],
+  "src/layouts/blog.vue": [
+    "/assets/blog.e1fe4f57.js"
+  ],
+  "src/layouts/empty.vue": [
+    "/assets/empty.8a744c64.js"
+  ],
+  "docs/blog/python-sets-what-why-how.md": [
+    "/assets/python-sets-what-why-how.1bee7c72.js"
+  ],
+  "src/components/icons/WarningIcon.vue": [
+    "/assets/BaseWarningTitle.f5a386c9.js"
+  ],
+  "src/components/ui/warning/BaseWarning.vue": [
+    "/assets/BaseWarningTitle.f5a386c9.js"
+  ],
+  "src/components/ui/warning/BaseWarningContent.vue": [
+    "/assets/BaseWarningTitle.f5a386c9.js"
+  ],
+  "src/components/ui/warning/BaseWarningTitle.vue": [
+    "/assets/BaseWarningTitle.f5a386c9.js"
+  ],
+  "src/components/icons/LightBulbIcon.vue": [
+    "/assets/BaseDisclaimerTitle.631caf82.js"
+  ],
+  "src/components/ui/disclaimer/BaseDisclaimer.vue": [
+    "/assets/BaseDisclaimerTitle.631caf82.js"
+  ],
+  "src/components/ui/disclaimer/BaseDisclaimerContent.vue": [
+    "/assets/BaseDisclaimerTitle.631caf82.js"
+  ],
+  "src/components/ui/disclaimer/BaseDisclaimerTitle.vue": [
+    "/assets/BaseDisclaimerTitle.631caf82.js"
+  ],
+  "src/components/BlogTitleHeader.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/BlogTitleHeader.vue_vue_type_script_setup_true_lang.c6957e31.js"
+  ],
+  "../../../../../../../../../@vite-plugin-pages/route-block": [
+    "/assets/route-block.6ee55eda.js"
+  ],
+  "docs/blog/python-projects-with-poetry-and-vscode-part-3.md": [
+    "/assets/python-projects-with-poetry-and-vscode-part-3.f6815754.js"
+  ],
+  "docs/blog/python-projects-with-poetry-and-vscode-part-2.md": [
+    "/assets/python-projects-with-poetry-and-vscode-part-2.c9773821.js"
+  ],
+  "docs/blog/python-projects-with-poetry-and-vscode-part-1.md": [
+    "/assets/python-projects-with-poetry-and-vscode-part-1.7f64ab95.js"
+  ],
+  "docs/blog/python-easy-args-kwargs.md": [
+    "/assets/python-easy-args-kwargs.28ce1ff6.js"
+  ],
+  "docs/blog/python-comprehensions-step-by-step.md": [
+    "/assets/python-comprehensions-step-by-step.ec473bcc.js"
+  ],
+  "docs/builtin/9-bytearray.md": [
+    "/assets/9-bytearray.981dec6d.js"
+  ],
+  "src/components/EmptySection.vue": [
+    "/assets/EmptySection.79a00cae.js"
+  ],
+  "docs/builtin/8-breakpoint.md": [
+    "/assets/8-breakpoint.837910ae.js"
+  ],
+  "docs/builtin/71-zip.md": [
+    "/assets/71-zip.8a20b1e0.js"
+  ],
+  "docs/builtin/70-vars.md": [
+    "/assets/70-vars.6fc2274c.js"
+  ],
+  "docs/builtin/7-bool.md": [
+    "/assets/7-bool.0d1970fd.js"
+  ],
+  "docs/builtin/69-type.md": [
+    "/assets/69-type.2070e012.js"
+  ],
+  "docs/builtin/68-tuple.md": [
+    "/assets/68-tuple.cb48419d.js"
+  ],
+  "docs/builtin/67-super.md": [
+    "/assets/67-super.37239c20.js"
+  ],
+  "docs/builtin/66-sum.md": [
+    "/assets/66-sum.edc2dcf3.js"
+  ],
+  "docs/builtin/65-str.md": [
+    "/assets/65-str.1e524f08.js"
+  ],
+  "docs/builtin/64-staticmethod.md": [
+    "/assets/64-staticmethod.ef6dc6ec.js"
+  ],
+  "docs/builtin/63-sorted.md": [
+    "/assets/63-sorted.f1e5ec78.js"
+  ],
+  "docs/builtin/62-slice.md": [
+    "/assets/62-slice.a9ba11e2.js"
+  ],
+  "docs/builtin/61-setattr.md": [
+    "/assets/61-setattr.acea3235.js"
+  ],
+  "docs/builtin/60-set.md": [
+    "/assets/60-set.860f5b57.js"
+  ],
+  "docs/builtin/6-bin.md": [
+    "/assets/6-bin.c25093ad.js"
+  ],
+  "docs/builtin/59-round.md": [
+    "/assets/59-round.1c857aa4.js"
+  ],
+  "docs/builtin/58-reversed.md": [
+    "/assets/58-reversed.3db01b2d.js"
+  ],
+  "docs/builtin/57-repr.md": [
+    "/assets/57-repr.035765fb.js"
+  ],
+  "docs/builtin/56-range.md": [
+    "/assets/56-range.662e115a.js"
+  ],
+  "docs/builtin/55-property.md": [
+    "/assets/55-property.baef3299.js"
+  ],
+  "docs/builtin/54-print.md": [
+    "/assets/54-print.fbb087c2.js"
+  ],
+  "docs/builtin/53-pow.md": [
+    "/assets/53-pow.c46b9e48.js"
+  ],
+  "docs/builtin/52-ord.md": [
+    "/assets/52-ord.2e6ca382.js"
+  ],
+  "docs/builtin/50-open.md": [
+    "/assets/50-open.56ac769c.js"
+  ],
+  "docs/builtin/5-ascii.md": [
+    "/assets/5-ascii.56172ab3.js"
+  ],
+  "docs/builtin/49-oct.md": [
+    "/assets/49-oct.d3cda468.js"
+  ],
+  "docs/builtin/48-object.md": [
+    "/assets/48-object.d6ee166f.js"
+  ],
+  "docs/builtin/47-next.md": [
+    "/assets/47-next.eb4ce68a.js"
+  ],
+  "docs/builtin/46-min.md": [
+    "/assets/46-min.75cbac62.js"
+  ],
+  "docs/builtin/45-memoryview.md": [
+    "/assets/45-memoryview.6d46067b.js"
+  ],
+  "docs/builtin/44-max.md": [
+    "/assets/44-max.fe69fb25.js"
+  ],
+  "docs/builtin/43-map.md": [
+    "/assets/43-map.1953520b.js"
+  ],
+  "docs/builtin/42-locals.md": [
+    "/assets/42-locals.2d57d2b0.js"
+  ],
+  "docs/builtin/41-list.md": [
+    "/assets/41-list.71349a67.js"
+  ],
+  "docs/builtin/40-len.md": [
+    "/assets/40-len.e58238ca.js"
+  ],
+  "docs/builtin/4-any.md": [
+    "/assets/4-any.2aca959b.js"
+  ],
+  "docs/builtin/39-iter.md": [
+    "/assets/39-iter.66093410.js"
+  ],
+  "docs/builtin/38-issubclass.md": [
+    "/assets/38-issubclass.a0ca2653.js"
+  ],
+  "docs/builtin/37-isinstance.md": [
+    "/assets/37-isinstance.a9183b1d.js"
+  ],
+  "docs/builtin/36-int.md": [
+    "/assets/36-int.fcfa5a41.js"
+  ],
+  "docs/builtin/35-input.md": [
+    "/assets/35-input.e8fd2f2c.js"
+  ],
+  "docs/builtin/34-import.md": [
+    "/assets/34-import.781229d3.js"
+  ],
+  "docs/builtin/33-id.md": [
+    "/assets/33-id.ceb0d3cc.js"
+  ],
+  "docs/builtin/32-hex.md": [
+    "/assets/32-hex.595d5d15.js"
+  ],
+  "docs/builtin/31-help.md": [
+    "/assets/31-help.4ebfa080.js"
+  ],
+  "docs/builtin/30-hash.md": [
+    "/assets/30-hash.79d5abe5.js"
+  ],
+  "docs/builtin/3-all.md": [
+    "/assets/3-all.56e71382.js"
+  ],
+  "docs/builtin/29-hasattr.md": [
+    "/assets/29-hasattr.aea17699.js"
+  ],
+  "docs/builtin/28-globals.md": [
+    "/assets/28-globals.3a3db2f0.js"
+  ],
+  "docs/builtin/27-getattr.md": [
+    "/assets/27-getattr.8f75225c.js"
+  ],
+  "docs/builtin/26-frozenset.md": [
+    "/assets/26-frozenset.337563c5.js"
+  ],
+  "docs/builtin/25-format.md": [
+    "/assets/25-format.fd98ac28.js"
+  ],
+  "docs/builtin/24-float.md": [
+    "/assets/24-float.85056cd0.js"
+  ],
+  "docs/builtin/23-filter.md": [
+    "/assets/23-filter.2d4d38ae.js"
+  ],
+  "docs/builtin/22-exec.md": [
+    "/assets/22-exec.0d29413c.js"
+  ],
+  "docs/builtin/21-eval.md": [
+    "/assets/21-eval.e2beea96.js"
+  ],
+  "docs/builtin/20-enumerate.md": [
+    "/assets/20-enumerate.9cc46bef.js"
+  ],
+  "docs/builtin/2-aiter.md": [
+    "/assets/2-aiter.8c38e87f.js"
+  ],
+  "docs/builtin/19-divmod.md": [
+    "/assets/19-divmod.dda074df.js"
+  ],
+  "docs/builtin/18-dir.md": [
+    "/assets/18-dir.aa4b5211.js"
+  ],
+  "docs/builtin/17-dict.md": [
+    "/assets/17-dict.9f9c3647.js"
+  ],
+  "docs/builtin/16-delattr.md": [
+    "/assets/16-delattr.6b721c9a.js"
+  ],
+  "docs/builtin/15-complex.md": [
+    "/assets/15-complex.fae93a50.js"
+  ],
+  "docs/builtin/14-compile.md": [
+    "/assets/14-compile.152b0e1e.js"
+  ],
+  "docs/builtin/13-classmethod.md": [
+    "/assets/13-classmethod.ec9cbc95.js"
+  ],
+  "docs/builtin/12-chr.md": [
+    "/assets/12-chr.e9bb4037.js"
+  ],
+  "docs/builtin/11-callable.md": [
+    "/assets/11-callable.7b1d740b.js"
+  ],
+  "docs/builtin/10-bytes.md": [
+    "/assets/10-bytes.b9e2f659.js"
+  ],
+  "docs/builtin/1-abs.md": [
+    "/assets/1-abs.41907b5d.js"
+  ],
+  "docs/cheatsheet/9-comprehensions.md": [
+    "/assets/9-comprehensions.27f7f080.js"
+  ],
+  "docs/cheatsheet/8-dataclasses.md": [
+    "/assets/8-dataclasses.63172762.js"
+  ],
+  "docs/cheatsheet/7-json-module.md": [
+    "/assets/7-json-module.8245b29a.js"
+  ],
+  "docs/cheatsheet/6-json-yaml.md": [
+    "/assets/6-json-yaml.ef9be29f.js"
+  ],
+  "docs/cheatsheet/4-functions.md": [
+    "/assets/4-functions.7a409209.js"
+  ],
+  "docs/cheatsheet/32-pathlib-module.md": [
+    "/assets/32-pathlib-module.c2f1fcad.js"
+  ],
+  "docs/cheatsheet/31-virtual-environments.md": [
+    "/assets/31-virtual-environments.f9e8ec76.js"
+  ],
+  "docs/cheatsheet/30-string-formatting.md": [
+    "/assets/30-string-formatting.a5d6454d.js"
+  ],
+  "docs/cheatsheet/3-dictionaries.md": [
+    "/assets/3-dictionaries.71152ecc.js"
+  ],
+  "docs/cheatsheet/29-shelve-module.md": [
+    "/assets/29-shelve-module.85eb63a6.js"
+  ],
+  "docs/cheatsheet/28-setup-py.md": [
+    "/assets/28-setup-py.4a9542a4.js"
+  ],
+  "docs/cheatsheet/27-regular-expressions.md": [
+    "/assets/27-regular-expressions.be4be1b3.js"
+  ],
+  "docs/cheatsheet/26-reading-and-writing-files.md": [
+    "/assets/26-reading-and-writing-files.ddadabc8.js"
+  ],
+  "docs/cheatsheet/25-random-module.md": [
+    "/assets/25-random-module.22095f08.js"
+  ],
+  "docs/cheatsheet/24-os-module.md": [
+    "/assets/24-os-module.e09f112a.js"
+  ],
+  "docs/cheatsheet/23-manipulating-strings.md": [
+    "/assets/23-manipulating-strings.c7329095.js"
+  ],
+  "docs/cheatsheet/22-lists-and-tuples.md": [
+    "/assets/22-lists-and-tuples.6a5b7f33.js"
+  ],
+  "docs/cheatsheet/21-itertools-module.md": [
+    "/assets/21-itertools-module.3d7867ff.js"
+  ],
+  "docs/cheatsheet/20-file-directory-path.md": [
+    "/assets/20-file-directory-path.cc34393d.js"
+  ],
+  "docs/cheatsheet/2-control-flow.md": [
+    "/assets/2-control-flow.bed94e3b.js"
+  ],
+  "docs/cheatsheet/19-exception-handling.md": [
+    "/assets/19-exception-handling.6573932c.js"
+  ],
+  "docs/cheatsheet/18-debugging.md": [
+    "/assets/18-debugging.c243336c.js"
+  ],
+  "docs/cheatsheet/17-datetime-module.md": [
+    "/assets/17-datetime-module.e65c922f.js"
+  ],
+  "docs/cheatsheet/16-built-in-functions.md": [
+    "/assets/16-built-in-functions.88df2371.js"
+  ],
+  "docs/cheatsheet/14-main.md": [
+    "/assets/14-main.827cb303.js"
+  ],
+  "docs/cheatsheet/13-zipfile-module.md": [
+    "/assets/13-zipfile-module.baab699e.js"
+  ],
+  "docs/cheatsheet/12-sets.md": [
+    "/assets/12-sets.bbe489b9.js"
+  ],
+  "docs/cheatsheet/11-context-manager.md": [
+    "/assets/11-context-manager.9faa06f1.js"
+  ],
+  "docs/cheatsheet/10-args-and-kwargs.md": [
+    "/assets/10-args-and-kwargs.a0fa6118.js"
+  ],
+  "docs/cheatsheet/1-basics.md": [
+    "/assets/1-basics.be073045.js"
+  ],
+  "src/pages/blog/index.vue": [
+    "/assets/index.44bbafc9.js"
+  ],
+  "src/pages/contributing.md": [
+    "/assets/contributing.b90be88b.js"
+  ],
+  "src/pages/changelog.md": [
+    "/assets/changelog.de67b7fb.js"
+  ],
+  "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/_...all_.4315f95c.js"
+  ],
+  "src/pages/[...all].vue": [
+    "/assets/_...all_.4315f95c.js"
+  ],
+  "node_modules/_workbox-window@6.5.4@workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/assets/workbox-window.prod.es5.3f2264a3.js"
+  ]
+}
