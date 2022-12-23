@@ -8,10 +8,14 @@ const navigation = useNavigationStore()
       :navigation="navigation.mainNavigation"
       section-name="Introduction"
     />
+    <the-sidebar-navigation
+      :navigation="navigation.QAPythonRevisitedNavigation"
+      section-name="QA Python revisited"
+    />
 
     <the-sidebar-navigation
       :navigation="navigation.cheatsheetNavigation"
-      section-name="Software QA Python revisited"
+      section-name="30-days-python-basic"
     />
 
     <the-sidebar-navigation

@@ -74,9 +74,9 @@ const routesWithoutGithub = ['index', 'blog']
         </div>
       </div>
 
-      <div class="mt-4 grid sm:mt-0">
+      <!-- <div class="mt-4 grid sm:mt-0">
         <netlify-badge class="mx-auto" />
-      </div>
+      </div> -->
     </div>
   </footer>
 </template>

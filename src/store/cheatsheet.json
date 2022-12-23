@@ -1,0 +1,152 @@
+[
+  {
+    "index": 1,
+    "name": "1-basics",
+    "path": "/cheatsheet/1-basics"
+  },
+  {
+    "index": 2,
+    "name": "2-control-flow",
+    "path": "/cheatsheet/2-control-flow"
+  },
+  {
+    "index": 3,
+    "name": "3-dictionaries",
+    "path": "/cheatsheet/3-dictionaries"
+  },
+  {
+    "index": 4,
+    "name": "4-functions",
+    "path": "/cheatsheet/4-functions"
+  },
+  {
+    "index": 6,
+    "name": "6-json-yaml",
+    "path": "/cheatsheet/6-json-yaml"
+  },
+  {
+    "index": 7,
+    "name": "7-json-module",
+    "path": "/cheatsheet/7-json-module"
+  },
+  {
+    "index": 8,
+    "name": "8-dataclasses",
+    "path": "/cheatsheet/8-dataclasses"
+  },
+  {
+    "index": 9,
+    "name": "9-comprehensions",
+    "path": "/cheatsheet/9-comprehensions"
+  },
+  {
+    "index": 10,
+    "name": "10-args-and-kwargs",
+    "path": "/cheatsheet/10-args-and-kwargs"
+  },
+  {
+    "index": 11,
+    "name": "11-context-manager",
+    "path": "/cheatsheet/11-context-manager"
+  },
+  {
+    "index": 12,
+    "name": "12-sets",
+    "path": "/cheatsheet/12-sets"
+  },
+  {
+    "index": 13,
+    "name": "13-zipfile-module",
+    "path": "/cheatsheet/13-zipfile-module"
+  },
+  {
+    "index": 14,
+    "name": "14-main",
+    "path": "/cheatsheet/14-main"
+  },
+  {
+    "index": 16,
+    "name": "16-built-in-functions",
+    "path": "/cheatsheet/16-built-in-functions"
+  },
+  {
+    "index": 17,
+    "name": "17-datetime-module",
+    "path": "/cheatsheet/17-datetime-module"
+  },
+  {
+    "index": 18,
+    "name": "18-debugging",
+    "path": "/cheatsheet/18-debugging"
+  },
+  {
+    "index": 19,
+    "name": "19-exception-handling",
+    "path": "/cheatsheet/19-exception-handling"
+  },
+  {
+    "index": 20,
+    "name": "20-file-directory-path",
+    "path": "/cheatsheet/20-file-directory-path"
+  },
+  {
+    "index": 21,
+    "name": "21-itertools-module",
+    "path": "/cheatsheet/21-itertools-module"
+  },
+  {
+    "index": 22,
+    "name": "22-lists-and-tuples",
+    "path": "/cheatsheet/22-lists-and-tuples"
+  },
+  {
+    "index": 23,
+    "name": "23-manipulating-strings",
+    "path": "/cheatsheet/23-manipulating-strings"
+  },
+  {
+    "index": 24,
+    "name": "24-os-module",
+    "path": "/cheatsheet/24-os-module"
+  },
+  {
+    "index": 25,
+    "name": "25-random-module",
+    "path": "/cheatsheet/25-random-module"
+  },
+  {
+    "index": 26,
+    "name": "26-reading-and-writing-files",
+    "path": "/cheatsheet/26-reading-and-writing-files"
+  },
+  {
+    "index": 27,
+    "name": "27-regular-expressions",
+    "path": "/cheatsheet/27-regular-expressions"
+  },
+  {
+    "index": 28,
+    "name": "28-setup-py",
+    "path": "/cheatsheet/28-setup-py"
+  },
+  {
+    "index": 29,
+    "name": "29-shelve-module",
+    "path": "/cheatsheet/29-shelve-module"
+  },
+  {
+    "index": 30,
+    "name": "30-string-formatting",
+    "path": "/cheatsheet/30-string-formatting"
+  },
+  {
+    "index": 31,
+    "name": "31-virtual-environments",
+    "path": "/cheatsheet/31-virtual-environments"
+  },
+  {
+    "index": 32,
+    "name": "32-pathlib-module",
+    "path": "/cheatsheet/32-pathlib-module"
+  }
+]

@@ -7,7 +7,7 @@ const allRoutes = [
   ...changelogPath,
   ...navigation.mainNavigation,
   ...navigation.cheatsheetNavigation,
-  ...navigation.standardLibraryNavigation,
+  // ...navigation.standardLibraryNavigation,
 ]
 
 const previous = computed(() => {

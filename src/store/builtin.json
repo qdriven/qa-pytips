@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "name": "1-abs",
+    "path": "/builtin/1-abs"
+  },
+  {
+    "index": 2,
+    "name": "2-aiter",
+    "path": "/builtin/2-aiter"
+  },
+  {
+    "index": 3,
+    "name": "3-all",
+    "path": "/builtin/3-all"
+  },
+  {
+    "index": 4,
+    "name": "4-any",
+    "path": "/builtin/4-any"
+  },
+  {
+    "index": 5,
+    "name": "5-ascii",
+    "path": "/builtin/5-ascii"
+  },
+  {
+    "index": 6,
+    "name": "6-bin",
+    "path": "/builtin/6-bin"
+  },
+  {
+    "index": 7,
+    "name": "7-bool",
+    "path": "/builtin/7-bool"
+  },
+  {
+    "index": 8,
+    "name": "8-breakpoint",
+    "path": "/builtin/8-breakpoint"
+  },
+  {
+    "index": 9,
+    "name": "9-bytearray",
+    "path": "/builtin/9-bytearray"
+  },
+  {
+    "index": 10,
+    "name": "10-bytes",
+    "path": "/builtin/10-bytes"
+  },
+  {
+    "index": 11,
+    "name": "11-callable",
+    "path": "/builtin/11-callable"
+  },
+  {
+    "index": 12,
+    "name": "12-chr",
+    "path": "/builtin/12-chr"
+  },
+  {
+    "index": 13,
+    "name": "13-classmethod",
+    "path": "/builtin/13-classmethod"
+  },
+  {
+    "index": 14,
+    "name": "14-compile",
+    "path": "/builtin/14-compile"
+  },
+  {
+    "index": 15,
+    "name": "15-complex",
+    "path": "/builtin/15-complex"
+  },
+  {
+    "index": 16,
+    "name": "16-delattr",
+    "path": "/builtin/16-delattr"
+  },
+  {
+    "index": 17,
+    "name": "17-dict",
+    "path": "/builtin/17-dict"
+  },
+  {
+    "index": 18,
+    "name": "18-dir",
+    "path": "/builtin/18-dir"
+  },
+  {
+    "index": 19,
+    "name": "19-divmod",
+    "path": "/builtin/19-divmod"
+  },
+  {
+    "index": 20,
+    "name": "20-enumerate",
+    "path": "/builtin/20-enumerate"
+  },
+  {
+    "index": 21,
+    "name": "21-eval",
+    "path": "/builtin/21-eval"
+  },
+  {
+    "index": 22,
+    "name": "22-exec",
+    "path": "/builtin/22-exec"
+  },
+  {
+    "index": 23,
+    "name": "23-filter",
+    "path": "/builtin/23-filter"
+  },
+  {
+    "index": 24,
+    "name": "24-float",
+    "path": "/builtin/24-float"
+  },
+  {
+    "index": 25,
+    "name": "25-format",
+    "path": "/builtin/25-format"
+  },
+  {
+    "index": 26,
+    "name": "26-frozenset",
+    "path": "/builtin/26-frozenset"
+  },
+  {
+    "index": 27,
+    "name": "27-getattr",
+    "path": "/builtin/27-getattr"
+  },
+  {
+    "index": 28,
+    "name": "28-globals",
+    "path": "/builtin/28-globals"
+  },
+  {
+    "index": 29,
+    "name": "29-hasattr",
+    "path": "/builtin/29-hasattr"
+  },
+  {
+    "index": 30,
+    "name": "30-hash",
+    "path": "/builtin/30-hash"
+  },
+  {
+    "index": 31,
+    "name": "31-help",
+    "path": "/builtin/31-help"
+  },
+  {
+    "index": 32,
+    "name": "32-hex",
+    "path": "/builtin/32-hex"
+  },
+  {
+    "index": 33,
+    "name": "33-id",
+    "path": "/builtin/33-id"
+  },
+  {
+    "index": 34,
+    "name": "34-import",
+    "path": "/builtin/34-import"
+  },
+  {
+    "index": 35,
+    "name": "35-input",
+    "path": "/builtin/35-input"
+  },
+  {
+    "index": 36,
+    "name": "36-int",
+    "path": "/builtin/36-int"
+  },
+  {
+    "index": 37,
+    "name": "37-isinstance",
+    "path": "/builtin/37-isinstance"
+  },
+  {
+    "index": 38,
+    "name": "38-issubclass",
+    "path": "/builtin/38-issubclass"
+  },
+  {
+    "index": 39,
+    "name": "39-iter",
+    "path": "/builtin/39-iter"
+  },
+  {
+    "index": 40,
+    "name": "40-len",
+    "path": "/builtin/40-len"
+  },
+  {
+    "index": 41,
+    "name": "41-list",
+    "path": "/builtin/41-list"
+  },
+  {
+    "index": 42,
+    "name": "42-locals",
+    "path": "/builtin/42-locals"
+  },
+  {
+    "index": 43,
+    "name": "43-map",
+    "path": "/builtin/43-map"
+  },
+  {
+    "index": 44,
+    "name": "44-max",
+    "path": "/builtin/44-max"
+  },
+  {
+    "index": 45,
+    "name": "45-memoryview",
+    "path": "/builtin/45-memoryview"
+  },
+  {
+    "index": 46,
+    "name": "46-min",
+    "path": "/builtin/46-min"
+  },
+  {
+    "index": 47,
+    "name": "47-next",
+    "path": "/builtin/47-next"
+  },
+  {
+    "index": 48,
+    "name": "48-object",
+    "path": "/builtin/48-object"
+  },
+  {
+    "index": 49,
+    "name": "49-oct",
+    "path": "/builtin/49-oct"
+  },
+  {
+    "index": 50,
+    "name": "50-open",
+    "path": "/builtin/50-open"
+  },
+  {
+    "index": 52,
+    "name": "52-ord",
+    "path": "/builtin/52-ord"
+  },
+  {
+    "index": 53,
+    "name": "53-pow",
+    "path": "/builtin/53-pow"
+  },
+  {
+    "index": 54,
+    "name": "54-print",
+    "path": "/builtin/54-print"
+  },
+  {
+    "index": 55,
+    "name": "55-property",
+    "path": "/builtin/55-property"
+  },
+  {
+    "index": 56,
+    "name": "56-range",
+    "path": "/builtin/56-range"
+  },
+  {
+    "index": 57,
+    "name": "57-repr",
+    "path": "/builtin/57-repr"
+  },
+  {
+    "index": 58,
+    "name": "58-reversed",
+    "path": "/builtin/58-reversed"
+  },
+  {
+    "index": 59,
+    "name": "59-round",
+    "path": "/builtin/59-round"
+  },
+  {
+    "index": 60,
+    "name": "60-set",
+    "path": "/builtin/60-set"
+  },
+  {
+    "index": 61,
+    "name": "61-setattr",
+    "path": "/builtin/61-setattr"
+  },
+  {
+    "index": 62,
+    "name": "62-slice",
+    "path": "/builtin/62-slice"
+  },
+  {
+    "index": 63,
+    "name": "63-sorted",
+    "path": "/builtin/63-sorted"
+  },
+  {
+    "index": 64,
+    "name": "64-staticmethod",
+    "path": "/builtin/64-staticmethod"
+  },
+  {
+    "index": 65,
+    "name": "65-str",
+    "path": "/builtin/65-str"
+  },
+  {
+    "index": 66,
+    "name": "66-sum",
+    "path": "/builtin/66-sum"
+  },
+  {
+    "index": 67,
+    "name": "67-super",
+    "path": "/builtin/67-super"
+  },
+  {
+    "index": 68,
+    "name": "68-tuple",
+    "path": "/builtin/68-tuple"
+  },
+  {
+    "index": 69,
+    "name": "69-type",
+    "path": "/builtin/69-type"
+  },
+  {
+    "index": 70,
+    "name": "70-vars",
+    "path": "/builtin/70-vars"
+  },
+  {
+    "index": 71,
+    "name": "71-zip",
+    "path": "/builtin/71-zip"
+  }
+]

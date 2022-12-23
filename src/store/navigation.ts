@@ -1,5 +1,5 @@
 import { acceptHMRUpdate, defineStore } from 'pinia'
-import {cheatsheetNavigation,standardLibraryNavigation} from './content'
+import {cheatsheetNavigation,standardLibraryNavigation,revisitedNavigation} from './content'
 //TODO: Link to Other Tutorials
 export const useNavigationStore = defineStore('navigation', {
   state: () => ({
@@ -23,6 +23,7 @@ export const useNavigationStore = defineStore('navigation', {
     ],
     cheatsheetNavigation: cheatsheetNavigation,
     standardLibraryNavigation: standardLibraryNavigation,
+    QAPythonRevisitedNavigation: revisitedNavigation
   }),
 })
 
