@@ -29,9 +29,6 @@ declare module '@vue/runtime-core' {
     BugIcon: typeof import('./components/icons/BugIcon.vue')['default']
     CarbonAds: typeof import('./components/CarbonAds.vue')['default']
     Contributors: typeof import('./components/Contributors.vue')['default']
-    Dialog: typeof import('@headlessui/vue')['Dialog']
-    DialogPanel: typeof import('@headlessui/vue')['DialogPanel']
-    DialogTitle: typeof import('@headlessui/vue')['DialogTitle']
     EditIcon: typeof import('./components/icons/EditIcon.vue')['default']
     EmptySection: typeof import('./components/EmptySection.vue')['default']
     GithubIcon: typeof import('./components/icons/GithubIcon.vue')['default']
@@ -46,7 +43,6 @@ declare module '@vue/runtime-core' {
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SubscriptionForm: typeof import('./components/SubscriptionForm.vue')['default']
-    Switch: typeof import('@headlessui/vue')['Switch']
     TheFooter: typeof import('./components/layout/TheFooter.vue')['default']
     TheNavbar: typeof import('./components/layout/TheNavbar.vue')['default']
     TheNavbarReader: typeof import('./components/layout/TheNavbarReader.vue')['default']
@@ -54,8 +50,6 @@ declare module '@vue/runtime-core' {
     TheSidebarMobile: typeof import('./components/layout/TheSidebarMobile.vue')['default']
     TheSidebarNavigation: typeof import('./components/layout/TheSidebarNavigation.vue')['default']
     TheToc: typeof import('./components/layout/TheToc.vue')['default']
-    TransitionChild: typeof import('@headlessui/vue')['TransitionChild']
-    TransitionRoot: typeof import('@headlessui/vue')['TransitionRoot']
     WarningIcon: typeof import('./components/icons/WarningIcon.vue')['default']
   }
 }
